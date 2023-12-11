@@ -1,0 +1,16 @@
+{
+"login":
+{
+"username":"test.qa@dispostable.com",
+"password":"Cypress123!!"
+},
+"Product":
+{
+"ProductName":"MacBook Air"
+},
+"SuccessMessage":
+{
+    "Message":" Success: You have added MacBook Air to your shopping cart!"
+}
+
+}
